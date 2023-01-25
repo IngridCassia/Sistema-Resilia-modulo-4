@@ -18,5 +18,6 @@ Professor tem relacionamento 1:n com alunos
 
 Instituição tem relacionamento 1:n com cursos
 
-![Capturar](https://user-images.githubusercontent.com/114073410/214572776-d3068879-8ada-437e-934a-c4aeb5ed117d.PNG)
+![Capturar](https://user-images.githubusercontent.com/114073410/214573389-1203391a-2db3-4c7a-a557-e290f33d9215.PNG)
+
 

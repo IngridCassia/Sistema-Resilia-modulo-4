@@ -1,5 +1,3 @@
-# Sistema-Resilia-modulo-4
-
 Trata-se do projeto individual do módulo 4, da resília.
 
 Existem outras entidades além dessas três?
@@ -18,6 +16,12 @@ Professor tem relacionamento 1:n com alunos
 
 Instituição tem relacionamento 1:n com cursos
 
-![Capturar](https://user-images.githubusercontent.com/114073410/214573389-1203391a-2db3-4c7a-a557-e290f33d9215.PNG)
+
+
+
+
+## Autores
+
+- [@IngridCassia](https://github.com/IngridCassia)
 
 
